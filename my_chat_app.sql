@@ -69,9 +69,9 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `username`, `password`, `reg_time`, `online`) VALUES
-(13, 'Dev Patel', 'pateldev081999@gmail.com', 'pateldev2511', '$5$rounds=535000$0S0opLCybZubqYBC$9VM5z2F59HkpfN7a9F8pVx9Pe7zjytSFPOy8Vo/YnWC', '2019-11-18 05:27:14', '1'),
-(14, 'Ghost', 'abc@123.com', 'Pateldev', '$5$rounds=535000$/8N12PIuCpw.upcA$bZo80g6cgwruWC0tjX3AucPIlRc2RbmD9mVaTxa7Tq1', '2019-11-18 05:31:00', '1'),
-(15, 'jeel', 'jeel36999@gmail.com', 'jeeel', '$5$rounds=535000$dcDYnSStMKzFzxyY$YNAuFForcaGiape2tjVMpGYYVHNyhUv6atIH.euH/Z6', '2019-11-18 06:37:29', '1');
+(13, 'Dev Patel', 'abc1234@gmail.com', 'Axel', '$5$rounds=535000$0S0opLCybZubqYBC$9VM5z2F59HkpfN7a9F8pVx9Pe7zjytSFPOy8Vo/YnWC', '2019-11-18 05:27:14', '1'),
+(14, 'Ghost', 'abc@123.com', 'Ghost', '$5$rounds=535000$/8N12PIuCpw.upcA$bZo80g6cgwruWC0tjX3AucPIlRc2RbmD9mVaTxa7Tq1', '2019-11-18 05:31:00', '1'),
+(15, 'jeel', 'hello123@gmail.com', 'Recon', '$5$rounds=535000$dcDYnSStMKzFzxyY$YNAuFForcaGiape2tjVMpGYYVHNyhUv6atIH.euH/Z6', '2019-11-18 06:37:29', '1');
 
 --
 -- Indexes for dumped tables
